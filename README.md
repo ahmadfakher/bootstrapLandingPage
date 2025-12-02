@@ -1,3 +1,5 @@
+This project is licensed under the CC BY-NC 4.0 License. Commercial use is NOT permitted
+
 # bootstrapLandingPage
 A simple page fully customized by bootstrap 5
 
